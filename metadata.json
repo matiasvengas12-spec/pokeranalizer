@@ -1,0 +1,5 @@
+{
+  "name": "Poker Range Analyzer",
+  "description": "An advanced poker tool to analyze hand range compositions on a given flop. Select a range, define the flop, and instantly see a breakdown of hand strengths and draws.",
+  "requestFramePermissions": []
+}
